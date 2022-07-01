@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:110:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:164:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:182:6:StartRead_Sensor	64	dynamic
+../Core/Src/freertos.c:212:6:StartNDVIRead	24	static
+../Core/Src/freertos.c:254:6:StartFeedback	24	static
+../Core/Src/freertos.c:303:6:StartDebounce	16	static
+../Core/Src/freertos.c:326:6:HAL_GPIO_EXTI_Callback	16	static,ignoring_inline_asm
